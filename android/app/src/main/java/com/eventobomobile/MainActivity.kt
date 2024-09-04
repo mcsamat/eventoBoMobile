@@ -1,4 +1,4 @@
-package com.eventobomobile
+package com.mctamas.eventoapp.green
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
@@ -17,7 +17,7 @@ class MainActivity : ReactActivity() {
     override fun getMainComponentName(): String = "eventoBoMobile"
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        SplashScreen.show(this)  //commentare per togliere lo splashscreen nero
+        // SplashScreen.show(this)  //commentare per togliere lo splashscreen nero
         super.onCreate(savedInstanceState)
     }
 
