@@ -1,4 +1,4 @@
-package com.mctamas.eventoapp.green
+package com.mctamas.evento.manager
 
 import android.app.Application
 import com.facebook.react.PackageList
